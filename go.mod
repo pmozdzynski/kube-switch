@@ -1,6 +1,6 @@
 module kube-switch
 
-go 1.19
+go 1.25
 
 require (
 	github.com/manifoldco/promptui v0.9.0
